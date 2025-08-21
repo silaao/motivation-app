@@ -30,7 +30,6 @@ O **Motivation** é um aplicativo Android desenvolvido em **Kotlin** que exibe f
 - `ui/` → telas do aplicativo  
 - `repository/` → repositório de frases motivacionais  
 - `helper/` → constantes e utilitários  
-- `databinding/` → classes geradas automaticamente para o View Binding  
 
 ---
 
