@@ -36,7 +36,7 @@ O **Motivation** é um aplicativo Android desenvolvido em **Kotlin** que exibe f
 ## 📸 Demonstração e Exemplo de Fluxo
 ![Preview da aplicação](https://i.imgur.com/SqMUMCO.png)
 
-1. Usuário informa o **nome** → App salva no `SharedPreferences`.  
+1. O usuário informa o **nome** → App salva no `SharedPreferences`.  
 2. Tela principal exibe:  
    - Saudação personalizada: *"Olá, [Nome]"*.  
    - Filtros de categorias (Todos, Feliz, Ensolarado).  
