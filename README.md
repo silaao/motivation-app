@@ -33,7 +33,7 @@ O **Motivation** é um aplicativo Android desenvolvido em **Kotlin** que exibe f
 
 ---
 
-## 📸 Demonstração (Exemplo de Fluxo)
+## 📸 Demonstração e Exemplo de Fluxo
 ![Preview da aplicação](https://i.imgur.com/ywRWS2i.png)
 
 1. Usuário informa o **nome** → App salva no `SharedPreferences`.  
